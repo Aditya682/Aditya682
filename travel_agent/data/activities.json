@@ -1,0 +1,18 @@
+[
+  {"name": "Old Goa Churches & Heritage Walk", "category": "sightseeing", "duration_hours": 4, "price_inr": 900, "description": "Guided walk through Basilica of Bom Jesus, Se Cathedral and the Latin Quarter in Fontainhas."
+  },
+  {"name": "Dudhsagar Waterfalls Day Trip", "category": "sightseeing", "duration_hours": 8, "price_inr": 2200, "description": "Jeep safari through Bhagwan Mahavir Wildlife Sanctuary to Dudhsagar Falls."
+  },
+  {"name": "Spice Plantation & Lunch Tour", "category": "sightseeing", "duration_hours": 5, "price_inr": 1400, "description": "Guided tour of a working spice plantation with a traditional Goan lunch."
+  },
+  {"name": "Sunset Cruise on Mandovi River", "category": "leisure", "duration_hours": 2, "price_inr": 800, "description": "Live music cruise with a sunset view over the Mandovi river."
+  },
+  {"name": "Anjuna Flea Market Visit", "category": "leisure", "duration_hours": 3, "price_inr": 0, "description": "Self-guided browsing of the famous Wednesday flea market (entry free, shopping extra)."
+  },
+  {"name": "Scuba Diving at Grande Island", "category": "adventure", "duration_hours": 4, "price_inr": 3500, "description": "Beginner-friendly scuba session with certified instructors."
+  },
+  {"name": "Fort Aguada & Chapora Fort Tour", "category": "sightseeing", "duration_hours": 3, "price_inr": 600, "description": "Half-day tour covering two of Goa's most photographed forts."
+  },
+  {"name": "Parasailing & Water Sports, Baga Beach", "category": "adventure", "duration_hours": 2, "price_inr": 1800, "description": "Parasailing, jet-ski and banana boat combo package."
+  }
+]
