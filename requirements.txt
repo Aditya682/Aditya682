@@ -1,5 +1,0 @@
-anthropic>=1.6.0
-langgraph>=1.2.0
-mcp>=2.0.0
-pydantic>=2.7.0
-python-dotenv>=1.0.0
