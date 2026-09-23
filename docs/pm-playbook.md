@@ -5,6 +5,31 @@ layers you're drawing on, which questions you answer in writing, and what
 artifact comes out the other end. This is the process; the content is
 yours to produce.
 
+## Why this exact project, grounded in real travel-tech roles
+
+This isn't a generic agent exercise - it's the same shape of work as live
+postings: Navan's "Product Manager - Book with AI" owns a booking agent
+end-to-end and is explicitly responsible for defining "meaningful goals
+and evaluation criteria for AI behavior: task completion, factual
+accuracy, policy compliance, correct tool and UI usage, response quality,
+latency, and safe recovery from failures" - and for keeping the agent
+"transparent about limitations, unsupported requests, changing prices,
+availability, and booking status." That is Phase 2 and Phase 5 of this
+playbook, close to word for word. Expedia runs multiple live PM roles on
+the same pattern (Personal AI Agents, Agentic Search, B2B AI Solutions -
+"generative and agentic AI modules that power smarter search, decisioning,
+and trip support"). MakeMyTrip's Myra assistant is built the same way this
+project is: specialized agents per domain (flights, accommodation,
+ground transport, visas) under one orchestrator - here, hotels and
+activities. Sources: [Navan - PM, Book with
+AI](https://www.dreamworkhq.com/job/dd39bb23-0a00-40b8-ac78-f76ef1e352d0),
+[Expedia - Principal PM, Personal AI
+Agents](https://careers.expediagroup.com/job/principal-product-manager-personal-ai-agents/san-jose-ca/R-104243/),
+[Expedia - PM II, Agentic
+Search](https://www.tealhq.com/job/product-manager-ii-agentic-search_7ea1a98ae100888d7e8eed70e3a765994ab7f),
+[MakeMyTrip GenAI Trip Planning
+Assistant](https://investors.mmtcdn.com/Press_Release_Gen_AI_Trip_Planning_Assistant_07_08_2025_404cc1872a.pdf).
+
 ## Phase 0: Problem discovery (Layer 1) - do this before Phase 1
 
 Walk the decision tree explicitly, in writing, for this exact scenario -
