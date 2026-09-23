@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+traces/*.jsonl
+evals/results/*.json
+.DS_Store
